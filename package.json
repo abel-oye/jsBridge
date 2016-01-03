@@ -1,8 +1,8 @@
 {
   "name": "ymtapi",
   "description": "Javascript library for ymtapp operations",
-  "version": "0.0.1",
-  "main": "dist/ymtapi.js",
+  "version": "0.0.3",
+  "main": "./ymtapi.js",
   "author": {},
   "repository": {
     "type": "git",
